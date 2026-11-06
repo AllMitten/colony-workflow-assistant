@@ -26,4 +26,3 @@ Run these commands from the extracted application folder. Open http://127.0.0.1:
 Credentials, lab records, account-specific demonstration inputs, signed-in browser sessions, exports, runtime history and the live permanent-ID registry are intentionally excluded. A source package is not a migration of the existing installation. Never start an independent ID registry against an already managed colony; use an approved registry/history migration process.
 
 This is a candidate for a supervised pilot. Confirm vendor automation policy, account edition, licensed features, IT controls, and multi-profile behavior before real-colony unattended use. Historical standalone helpers are blocked in this package; launch with npm start. No open-source license is granted by this private distribution.
-

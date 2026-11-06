@@ -1,0 +1,288 @@
+{
+  "package": "colony-workflow-assistant",
+  "version": "0.1.0",
+  "preparedOn": "2026-11-05",
+  "sourceOnly": true,
+  "tests": {
+    "passed": 87,
+    "failed": 0
+  },
+  "runtimeDataIncluded": false,
+  "files": [
+    {
+      "file": ".gitignore",
+      "bytes": 101,
+      "sha256": "1bc06c85e10bac2e2b1853c14376e950641422c099105a2bdbc6946565ce200c"
+    },
+    {
+      "file": "README.md",
+      "bytes": 4161,
+      "sha256": "c7b7d42185d9471fde930ea7f80ff1e73bda9fd02b351615755f0bde099e55a2"
+    },
+    {
+      "file": "SECURITY.md",
+      "bytes": 554,
+      "sha256": "ddd651b78a9cd3c5e2a0dada10ae01d1297d2eb3f82e752d501fc76953eef0b6"
+    },
+    {
+      "file": "Start Colony Workflow.cmd",
+      "bytes": 205,
+      "sha256": "b168eb095da4d617000206823cea3d68f10fa3b93519ea224bb83c9e92e76325"
+    },
+    {
+      "file": "VALIDATION.md",
+      "bytes": 1547,
+      "sha256": "cf1319ba94497c880380d431627d4a2cf0eb840e3830468c0e3fe4a5365a7e93"
+    },
+    {
+      "file": "app/ACCEPTANCE.md",
+      "bytes": 531,
+      "sha256": "3d69f6749c37d860f8ba5a246b61e9853820a6a710d2da5ea30885e94b685879"
+    },
+    {
+      "file": "app/MOUSE-IDS.md",
+      "bytes": 3790,
+      "sha256": "6de2f2efe66e8ffeddedc644894e2c8fcc9b565dc80177791be4876e9423d9b3"
+    },
+    {
+      "file": "app/README.md",
+      "bytes": 15689,
+      "sha256": "519e8bf91e974410a9edb7324e944e5f23844ba0141fca8b7fa9d168baf8adf7"
+    },
+    {
+      "file": "app/SETUP-AND-APPROVAL.md",
+      "bytes": 510,
+      "sha256": "4ae277a3fdf3771076f89d85bdddaaef669e9ae210463e0d3cc6d7e56d98b4e9"
+    },
+    {
+      "file": "app/SHORT-INSTRUCTIONS.md",
+      "bytes": 4883,
+      "sha256": "e4539ebc8742bd7f2c06a8f0a367e0c6b09253c5959c70aa5d6ccb8a78bcbc1b"
+    },
+    {
+      "file": "app/STRESS-TEST-REPORT.md",
+      "bytes": 478,
+      "sha256": "b71983934316d6586f79d229ff9c7a3355921ea7e6e80b075fe92356e1955224"
+    },
+    {
+      "file": "app/browser.cjs",
+      "bytes": 4598,
+      "sha256": "841e38d730f7cf88dd40007d88c2178c1ede62ab0b42a6461943a026dcf534a1"
+    },
+    {
+      "file": "app/contracts.cjs",
+      "bytes": 10632,
+      "sha256": "97e6e97ec7f6840fc5804dd08d40749dafd2e6187f926689201cc4caf3f0ca66"
+    },
+    {
+      "file": "app/examples/add-cages.json",
+      "bytes": 454,
+      "sha256": "dbe9be1ce2ce2493abb5f67ea0ebae5c8ce8e74c959b680927f65c48aa85d3a6"
+    },
+    {
+      "file": "app/examples/add-litters.json",
+      "bytes": 274,
+      "sha256": "5c5f4746040c95860d54f982280625adaff5f999a975e0c72ce8031e5763df94"
+    },
+    {
+      "file": "app/examples/wean-litters.json",
+      "bytes": 851,
+      "sha256": "e72933857337bc3ed3a988929710f4af5d674530056e36dbb79fbbae464ee364"
+    },
+    {
+      "file": "app/fast-mode.cjs",
+      "bytes": 2187,
+      "sha256": "5a61976fd7db18ae24b30b2b110e8b374a28665b2d1de8023c4ed30a0491b77c"
+    },
+    {
+      "file": "app/history-search.cjs",
+      "bytes": 566,
+      "sha256": "7406d33341fb41f2970e02cf895f782c5e3ad312c49eb328381950097d82b6d5"
+    },
+    {
+      "file": "app/identifiers.cjs",
+      "bytes": 245,
+      "sha256": "a75cec48290619ed46f6cd3b598ccc79be234c2b60236953153d0e98c5725b62"
+    },
+    {
+      "file": "app/launch.cjs",
+      "bytes": 546,
+      "sha256": "df411744cedff39209f8dccb9c0b225119fad3bc5b220f6afeff48490113ead1"
+    },
+    {
+      "file": "app/mouse-identities.cjs",
+      "bytes": 6257,
+      "sha256": "c93d4d46aab2ed49e72135d95dda0afe03823cbebc689787aee92de2aad45c07"
+    },
+    {
+      "file": "app/progress-stream.cjs",
+      "bytes": 1312,
+      "sha256": "32dd7b3ec086c4423245875c41aba1b7329440ed0fd4acb676617e5082ee9349"
+    },
+    {
+      "file": "app/public/app.js",
+      "bytes": 22660,
+      "sha256": "5fed7a13749a14e89c71b8a52fe85002b3b2c09ae179f8685a39b9cb02fdcac3"
+    },
+    {
+      "file": "app/public/index.html",
+      "bytes": 8124,
+      "sha256": "4bde49a73189d1536b213c56b3d308b8d8a6354b542c321dbc7f37f892436605"
+    },
+    {
+      "file": "app/public/style.css",
+      "bytes": 10665,
+      "sha256": "7ab5a002a311f90864a74f601b8cb6609bc60f7461f0e4e96f58ebba1a78d73f"
+    },
+    {
+      "file": "app/request-guard.cjs",
+      "bytes": 2293,
+      "sha256": "1fe874e7c51b6a9f08f2f5c0f37baf9038a2944cae1be3eaa95471e2aab00b7c"
+    },
+    {
+      "file": "app/runner.cjs",
+      "bytes": 37556,
+      "sha256": "bf5b8ac9740b6628557eb3128284da4eab10c37ed082893a6a0488a0454fd4da"
+    },
+    {
+      "file": "app/server.cjs",
+      "bytes": 9889,
+      "sha256": "e084f6d6dba60f8a4e3f50e9781099aedb9d0e80970a52c3eaf868cfb9ae0d43"
+    },
+    {
+      "file": "app/short-input.cjs",
+      "bytes": 8219,
+      "sha256": "9803ebb80635e8747021f92ea2e76783c5b4cba4ecbd044f55dab7b838cf9e07"
+    },
+    {
+      "file": "app/softmouse.cjs",
+      "bytes": 14432,
+      "sha256": "81a8e2b2404d66453f4211e94071016dc1741767fc6fa55e5661a9d4905c742a"
+    },
+    {
+      "file": "app/store.cjs",
+      "bytes": 7181,
+      "sha256": "f9041b7cd808ba82efdc6a18c229a47719b9188f138d1605b0ab15ee0c81f015"
+    },
+    {
+      "file": "app/tests/contracts.test.cjs",
+      "bytes": 2770,
+      "sha256": "7fe619131288b94859585cddacc047ed30f61d1918e1142a63107f5166747b38"
+    },
+    {
+      "file": "app/tests/fast-mode.test.cjs",
+      "bytes": 3609,
+      "sha256": "a2f428b53ff6ff1e5b169b0a23373166cafd64d564b24fed9a596cfe18a2ca8e"
+    },
+    {
+      "file": "app/tests/history.test.cjs",
+      "bytes": 4330,
+      "sha256": "bce6c7db3c2a42581850f5ec90cbdfdbb27512c71dc44b3fb87b8cd527346e36"
+    },
+    {
+      "file": "app/tests/http-stress.test.cjs",
+      "bytes": 3694,
+      "sha256": "b1d4d50e640705243beb57ae69fcb0f44f08684b16ea9d969b2e581e0b2ca6bc"
+    },
+    {
+      "file": "app/tests/load.test.cjs",
+      "bytes": 5118,
+      "sha256": "9865badf9f12dc215eb7ade62afdc09e298221829f70162d24ae952c7031df5c"
+    },
+    {
+      "file": "app/tests/mouse-identities.test.cjs",
+      "bytes": 5733,
+      "sha256": "7fa67a4fa8bbc7a110af4f12f5f4fd844c4cec13b81b452e26deaca70f7336db"
+    },
+    {
+      "file": "app/tests/safety.test.cjs",
+      "bytes": 5603,
+      "sha256": "ec5e7171379e9e386336315a38ac316a5fa302c3ff99526030b92a7b53b2528b"
+    },
+    {
+      "file": "app/tests/short-input.test.cjs",
+      "bytes": 4034,
+      "sha256": "b19bf6dae980f48b32bc8bfe55cba2b4030159180fe32e0e438535f1d758bd0c"
+    },
+    {
+      "file": "app/tests/stress.test.cjs",
+      "bytes": 4861,
+      "sha256": "6feb1e2a32692fbac914dab2c3673a4193e1c12b433b034cafbaa1851bb0c127"
+    },
+    {
+      "file": "app/tests/ui-stress.test.cjs",
+      "bytes": 5658,
+      "sha256": "00b1e7a77202476d909f161b478878360bd289c0a8f453f318c007119ba1a8fa"
+    },
+    {
+      "file": "app/tests/ui.test.cjs",
+      "bytes": 9992,
+      "sha256": "e5531c4e752160c35518535d0893e114dbe601f5b536b1fd0a0a01cb4b169e1e"
+    },
+    {
+      "file": "app/xlsx.cjs",
+      "bytes": 2606,
+      "sha256": "682830467820ed7e100358c2e629eb79f910088c3b7489efaa62adeab1feee0f"
+    },
+    {
+      "file": "package-lock.json",
+      "bytes": 1257,
+      "sha256": "65993ec72d52bda03aefb1dbc2334cbf15d7bac8de8b41916c7da4b0edaadf96"
+    },
+    {
+      "file": "package.json",
+      "bytes": 771,
+      "sha256": "6dd00f40e10a8beb9f0cccfaa900474fd7901ac891476dd6430ca618981e5f72"
+    },
+    {
+      "file": "softmouse-batch.cjs",
+      "bytes": 25398,
+      "sha256": "2abc12c3acaf635b5b4d1a04445e41e193f307ca169a1f4716dd2c6c3d0adc6d"
+    },
+    {
+      "file": "softmouse-batch.test.cjs",
+      "bytes": 2045,
+      "sha256": "6e21f758f946d11e55cf897f7d2dbd0116a6f781ea2b40ccc925b6229dd5def2"
+    },
+    {
+      "file": "softmouse-litters-closed-practice.json",
+      "bytes": 1107,
+      "sha256": "66dfabb028c3245153fc82a5646135545a098aea3e7224e243d3be0c2efd7338"
+    },
+    {
+      "file": "softmouse-litters.cjs",
+      "bytes": 35113,
+      "sha256": "10fad59b8539c19895bee135ff82516b88ebe17833411340d4d84e6ec66334a0"
+    },
+    {
+      "file": "softmouse-litters.test.cjs",
+      "bytes": 2937,
+      "sha256": "3681d565a448da2e96d5692ff81f046bf62b27545fcbf85dcc8d1bc017bd21a3"
+    },
+    {
+      "file": "softmouse-one-male.cjs",
+      "bytes": 20887,
+      "sha256": "29c0fd986ebee52e731131de76cfdaa016bbbbc4fcaaa001a880273afaded2de"
+    },
+    {
+      "file": "softmouse-practice-four.json",
+      "bytes": 1590,
+      "sha256": "d2948783d46169679f3987e175253a7faf9be9799be2d328bddc6e468518d2a0"
+    },
+    {
+      "file": "softmouse-profile-matings.cjs",
+      "bytes": 9554,
+      "sha256": "b101960d7577d579c3a47ef989665b67075f2bfce5f343f9ec3e91179cb263f0"
+    },
+    {
+      "file": "softmouse-profile-run.cjs",
+      "bytes": 12066,
+      "sha256": "5f2c1437770cd204843c83a3058ac62cf8aad29da5b3fd92b052f16c85d47165"
+    },
+    {
+      "file": "softmouse-profile-verify.cjs",
+      "bytes": 5986,
+      "sha256": "7a51e8c52ec03bd83ef2062eb38b5a295dc0b71450c65ebafb9ce03d7581fb9e"
+    }
+  ]
+}
